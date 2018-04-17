@@ -1,6 +1,6 @@
 {
   "name": "@shotamatsuda/rollup-plugin-image",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "repository": "shotamatsuda/rollup-plugin-image",
   "main": "index.js",
