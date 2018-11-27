@@ -4,7 +4,7 @@ var rollupPluginutils = require('rollup-pluginutils');
 var path = require('path');
 var fs = require('fs');
 
-//
+// The MIT License
 
 var mimeTypes = {
   '.jpg': 'image/jpeg',

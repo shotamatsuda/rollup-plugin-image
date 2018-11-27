@@ -43,7 +43,7 @@ describe('rollup-plugin-image', () => {
 
   it('supports custom mime types', () => {
     return rollup.rollup({
-      entry: 'sample/custom.js',
+      input: 'sample/custom.js',
       plugins: [
         image({
           mimeTypes: {
