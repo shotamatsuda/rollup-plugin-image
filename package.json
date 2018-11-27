@@ -1,13 +1,17 @@
 {
   "name": "@shotamatsuda/rollup-plugin-image",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "license": "MIT",
   "description": "",
   "repository": "shotamatsuda/rollup-plugin-image",
+  "bugs": "https://github.com/shotamatsuda/rollup-plugin-image/issues",
+  "homepage": "https://github.com/shotamatsuda/rollup-plugin-image",
+  "author": {
+    "name": "Shota Matsuda",
+    "email": "shota@takram.com"
+  },
   "main": "index.js",
   "module": "index.module.js",
-  "author": "Shota Matsuda",
-  "license": "MIT",
-  "homepage": "https://github.com/shotamatsuda/rollup-plugin-image",
   "files": [
     "package.json",
     "README.md",
